@@ -3,8 +3,7 @@
 ####Program that compiles but which contains bugs preventing from calculating the expected cost of 3 orders. 
 You have to fix all those bugs, and submit the bug free code.
 
-/*****************************************************************************************
-Please remove all bugs from the code below to get the following output:
+######Please remove all bugs from the code below to get the following output:
 <pre>
 *******Order 1*******
 1 book: 13.74
@@ -27,4 +26,3 @@ Total: 67.98
 Sum of orders: 153.81
  
 </pre>
-*********************************************************************************************/
